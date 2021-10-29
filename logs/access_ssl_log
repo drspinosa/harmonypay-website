@@ -1,0 +1,7 @@
+82.4.10.234 - - [29/Oct/2021:07:43:41 +0000] "GET / HTTP/1.0" 200 1733 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+82.4.10.234 - - [29/Oct/2021:07:43:42 +0000] "GET /favicon.ico HTTP/1.0" 404 1245 "https://harmonypay.io/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+82.4.10.234 - - [29/Oct/2021:07:43:50 +0000] "GET / HTTP/1.0" 200 341 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+82.4.10.234 - - [29/Oct/2021:07:43:52 +0000] "GET / HTTP/1.0" 200 341 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+82.4.10.234 - - [29/Oct/2021:07:44:27 +0000] "GET /index.html HTTP/1.0" 200 354 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+82.4.10.234 - - [29/Oct/2021:07:44:32 +0000] "GET /index.html HTTP/1.0" 200 341 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+82.4.10.234 - - [29/Oct/2021:07:44:33 +0000] "GET /favicon.ico HTTP/1.0" 404 1217 "https://harmonypay.io/index.html" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"

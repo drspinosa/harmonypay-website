@@ -1,0 +1,18 @@
+[Sat Oct 09 15:47:48.585394 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 09 16:07:33.729391 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 09 18:19:00.694014 2021] [proxy_fcgi:error] [pid 5939:tid 140360247965440] [client 118.26.39.224:0] AH01071: Got error 'Primary script unknown'
+[Sat Oct 09 18:20:13.289560 2021] [proxy_fcgi:error] [pid 5939:tid 140359413765888] [client 118.26.39.224:0] AH01071: Got error 'Primary script unknown'
+[Sat Oct 09 18:20:13.573725 2021] [proxy_fcgi:error] [pid 5939:tid 140359061468928] [client 118.26.39.224:0] AH01071: Got error 'Primary script unknown'
+[Sat Oct 09 18:20:31.740594 2021] [proxy_fcgi:error] [pid 5939:tid 140360239572736] [client 118.26.39.224:0] AH01071: Got error 'Primary script unknown'
+[Mon Oct 11 00:00:05.093923 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 12 00:00:04.521209 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 13 00:00:05.219758 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 14 00:00:04.718646 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 15 00:00:04.682625 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 16 00:00:05.380671 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 17 00:00:05.463284 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 18 00:00:05.000536 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 19 00:00:04.966653 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 20 00:00:04.826122 2021] [ssl:warn] [pid 1051:tid 140360267762752] AH01909: harmonypay.io:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 20 17:58:57.907254 2021] [proxy_fcgi:error] [pid 187897:tid 140359329904384] [client 185.67.34.1:0] AH01071: Got error 'Primary script unknown'
+[Wed Oct 20 17:58:58.616606 2021] [proxy_fcgi:error] [pid 187896:tid 140359296333568] [client 185.67.34.1:0] AH01071: Got error 'Primary script unknown'
