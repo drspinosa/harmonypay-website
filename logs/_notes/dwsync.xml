@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="access_ssl_log" server="77.68.121.132" local="132799787460000000" remote="132799787460000000" Dst="2" />
-<file name="access_ssl_log.processed" server="77.68.121.132" local="132799625920000000" remote="132799733960000000" Dst="2" />
-<file name="access_ssl_log.webstat" server="77.68.121.132" local="132799631000000000" remote="132799733960000000" Dst="2" />
-<file name="error_log" server="77.68.121.132" local="132792263380000000" remote="132799733970000000" Dst="2" />
-<file name="proxy_access_ssl_log" server="77.68.121.132" local="132796170090000000" remote="132799733970000000" Dst="2" />
-<file name="proxy_error_log" server="77.68.121.132" local="132782680650000000" remote="132799733970000000" Dst="2" />
+<file name="access_ssl_log" server="77.68.121.132" local="132802270390000000" remote="132802270390000000" Dst="1" />
+<file name="access_ssl_log.processed" server="77.68.121.132" local="132802217000000000" remote="132802217000000000" Dst="1" />
+<file name="access_ssl_log.webstat" server="77.68.121.132" local="132802222240000000" remote="132802222240000000" Dst="1" />
+<file name="error_log" server="77.68.121.132" local="132800825860000000" remote="132800825860000000" Dst="1" />
+<file name="proxy_access_ssl_log" server="77.68.121.132" local="132802270390000000" remote="132802270390000000" Dst="1" />
+<file name="proxy_error_log" server="77.68.121.132" local="132782716650000000" remote="132782716650000000" Dst="1" />
+<file name="access_log" server="77.68.121.132" local="132800806560000000" remote="132800806560000000" Dst="1" />
+<file name="proxy_access_log" server="77.68.121.132" local="132800806510000000" remote="132800806510000000" Dst="1" />
 </dwsync>
